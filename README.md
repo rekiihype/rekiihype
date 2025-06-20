@@ -42,7 +42,9 @@
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rekiihype&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Top Languages" />
-  <img width="48%" src="https://discord-readme-badge.vercel.app/api?id=686930042760331356" alt="Discord Profile" />
+  <a href="https://discord.com/users/686930042760331356">
+    <img width="48%" src="https://discord-readme-badge.vercel.app/api?id=686930042760331356" alt="Discord Profile" />
+  </a>
 </div>
 
 <div align="center">

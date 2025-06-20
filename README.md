@@ -5,7 +5,7 @@
 
 <!-- Compact Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app/api?font=JetBrains+Mono&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=60&lines=🚀+Cybersecurity+Student;💡+Loves+trying+new+things;🍞+Rotiboy+enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.vercel.app/api?font=JetBrains+Mono&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=60&lines=🚀+Cybersecurity+Student;💡+Love+trying+new+things;🍞+Rotiboy+enthusiast" alt="Typing Animation" />
 </p>
 
 <!-- Compact Social Links -->

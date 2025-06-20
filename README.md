@@ -5,7 +5,7 @@
 
 <!-- Compact Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app/api?font=JetBrains+Mono&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=60&lines=🚀+Student+%26+Developer;💡+Building+awesome+projects;🍞+Rotiboy+enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.vercel.app/api?font=JetBrains+Mono&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=60&lines=🚀+Cybersecurity+Student;💡+Loves+trying+new+things;🍞+Rotiboy+enthusiast" alt="Typing Animation" />
 </p>
 
 <!-- Compact Social Links -->
@@ -21,10 +21,7 @@
 
 <!-- GIF Section -->
 <div align="center">
-  <h2>🎬 A Little Fun</h2>
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Coding GIF"/>
-  <br/>
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Hacker GIF"/>
+  <img src="https://tenor.com/view/marin-kitagawa-kitagawa-marin-marin-kitagawa-bisque-gif-24604709.gif" alt="Kitagawa Marin"/>
 </div>
 
 <!-- Simple Divider -->
@@ -33,7 +30,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,nextjs,express,tailwind,mongodb,git&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,css,html,php,java,py,ts,mysql,git&theme=dark" alt="Tech Stack" />
 </div>
 
 <!-- GitHub Stats Section with Modern Cards -->
@@ -52,7 +49,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer"/>
   
-  **💙 Made with passion in Cyberjaya, Malaysia 🇲🇾**
+  **rekiihype | Cyberjaya, Malaysia 🇲🇾**
 </div>
 
 </div>

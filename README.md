@@ -33,7 +33,6 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,css,html,php,java,py,ts,mysql,git&theme=dark" alt="Tech Stack" />
 </div>
 
-<!-- GitHub Stats Section with Modern Cards -->
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -42,7 +41,8 @@
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rekiihype&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rekiihype&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Top Languages" />
+  <img width="48%" src="https://discord-readme-badge.vercel.app/api?id=686930042760331356" alt="Discord Profile" />
 </div>
 
 <!-- Footer -->

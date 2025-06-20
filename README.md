@@ -45,4 +45,9 @@
   <img width="48%" src="https://discord-readme-badge.vercel.app/api?id=686930042760331356" alt="Discord Profile" />
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer"/>
+</div>
+
+
 </div>

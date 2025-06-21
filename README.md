@@ -24,16 +24,9 @@
   <img src="https://tenor.com/view/marin-kitagawa-kitagawa-marin-marin-kitagawa-bisque-gif-24604709.gif" alt="Kitagawa Marin"/>
 </div>
 
-<!-- Simple Divider -->
-<hr style="border: 1px solid #30363d; margin: 20px 0;">
-
-## 🛠️ Tech Stack
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,css,html,php,java,py,ts,mysql,git&theme=dark" alt="Tech Stack" />
 </div>
-
-## 📊 GitHub Stats
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rekiihype&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />

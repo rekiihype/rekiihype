@@ -27,9 +27,9 @@
   <tr>
     <td width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rekiihype&theme=github_dark"/>
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rekiihype&theme=github"/>
-        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rekiihype&theme=github_dark" alt="GitHub Summary"/>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=rekiihype&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide_border=true"/>
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=rekiihype&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rekiihype&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
       </picture>
     </td>
     <td width="50%">

@@ -22,14 +22,27 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rekiihype&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF" alt="Activity"/>
 </picture>
 
-<!-- Discord Profile -->
-<a href="https://discord.com/users/686930042760331356">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://lanyard.cnrad.dev/api/686930042760331356?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Just%20chillin'"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://lanyard.cnrad.dev/api/686930042760331356?theme=light&bg=ffffff&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Just%20chillin'"/>
-    <img width="60%" src="https://lanyard.cnrad.dev/api/686930042760331356?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Just%20chillin'" alt="Discord"/>
-  </picture>
-</a>
+<!-- Stats Grid: Two Column Layout -->
+<table>
+  <tr>
+    <td width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rekiihype&theme=github_dark"/>
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rekiihype&theme=github"/>
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rekiihype&theme=github_dark" alt="GitHub Summary"/>
+      </picture>
+    </td>
+    <td width="50%">
+      <a href="https://discord.com/users/686930042760331356">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://lanyard.cnrad.dev/api/686930042760331356?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Just%20chillin'"/>
+          <source media="(prefers-color-scheme: light)" srcset="https://lanyard.cnrad.dev/api/686930042760331356?theme=light&bg=ffffff&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Just%20chillin'"/>
+          <img width="100%" src="https://lanyard.cnrad.dev/api/686930042760331356?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Just%20chillin'" alt="Discord"/>
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- Compact Social Links -->
 <p>

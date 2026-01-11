@@ -6,7 +6,7 @@
 </h1>
 
 <!-- Uma Musume Pixel Art Gallery -->
-<table>
+<table border="0">
   <tr>
     <td align="center"><img src="assets/uma-musume-yudine.gif" width="80px" alt="Uma Musume 1"/></td>
     <td align="center"><img src="assets/uma-musume-tokai-teio-yudine.gif" width="80px" alt="Uma Musume 2"/></td>

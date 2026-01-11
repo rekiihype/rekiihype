@@ -1,15 +1,13 @@
 <div align="center">
 
-<!-- Compact Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Hey%20there!%20I'm%20Syamel&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40"/>
+<!-- Compact Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Hey%20there!%20I'm%20Syamel&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=38"/>
 
-<!-- Compact Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.vercel.app/api?font=JetBrains+Mono&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=60&lines=🚀+Cybersecurity+Student;💡+Love+trying+new+things;🍞+Rotiboy+enthusiast" alt="Typing Animation" />
-</p>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.vercel.app/api?font=JetBrains+Mono&weight=500&size=20&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&height=50&lines=🚀+Cybersecurity+Student;💡+Love+trying+new+things;🍞+Rotiboy+enthusiast" alt="Typing SVG" />
 
-<!-- Compact Social Links -->
-<p align="center">
+<!-- Social Links -->
+<p>
   <a href="https://www.linkedin.com/in/syamelkarid">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -19,35 +17,29 @@
   <img src="https://komarev.com/ghpvc/?username=rekiihype&style=flat-square&color=58A6FF" alt="Profile Views" />
 </p>
 
-<!-- GIF Section -->
-<div align="center">
-  <img src="https://tenor.com/view/marin-kitagawa-kitagawa-marin-marin-kitagawa-bisque-gif-24604709.gif" alt="Kitagawa Marin"/>
-</div>
+<!-- Anime GIF -->
+<img src="https://tenor.com/view/marin-kitagawa-kitagawa-marin-marin-kitagawa-bisque-gif-24604709.gif" width="400" alt="Kitagawa Marin"/>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,css,html,php,java,py,ts,mysql,git&theme=dark" alt="Tech Stack" />
-</div>
+<br><br>
 
-<!-- GitHub Activity -->
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=rekiihype&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</div>
+<!-- GitHub Streak -->
+<img width="65%" src="https://streak-stats.demolab.com/?user=rekiihype&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
+
+<br>
 
 <!-- Activity Graph -->
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rekiihype&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" alt="Contribution Graph" />
-</div>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=rekiihype&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" alt="Contribution Graph" />
 
-<!-- Discord Profile -->
-<div align="center">
-  <a href="https://discord.com/users/686930042760331356">
-    <img width="70%" src="https://discord-readme-badge.vercel.app/api?id=686930042760331356" alt="Discord Profile" />
-  </a>
-</div>
+<br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer"/>
-</div>
+<!-- Discord Badge -->
+<a href="https://discord.com/users/686930042760331356">
+  <img width="60%" src="https://discord-readme-badge.vercel.app/api?id=686930042760331356" alt="Discord Profile" />
+</a>
 
+<br><br>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=footer"/>
 
 </div>

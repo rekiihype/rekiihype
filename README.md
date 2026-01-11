@@ -5,10 +5,15 @@
   <img src="https://readme-typing-svg.vercel.app/api?font=Inide+Flower&weight=400&size=32&duration=3000&pause=1000&color=FFDEAD&center=true&vCenter=true&width=500&lines=hey+there!+I'm+Syamel+👋;also+known+as+rekii;cybersecurity+amateur;currently+challenging+myself;" alt="Typing SVG" />
 </h1>
 
-<!-- Anime Visual with Dark Background -->
-<div style="background-color: #0d1117; display: inline-block; padding: 10px; border-radius: 8px;">
-  <img src="https://tenor.com/view/uma-musume-yudine-art-of-yudine-pixel-art-animated-gif-16207004241025370818.gif" width="100px" alt="Uma Musume"/>
-</div>
+<!-- Uma Musume Pixel Art Gallery -->
+<table>
+  <tr>
+    <td><img src="https://media1.tenor.com/m/4OrYfSORCsIAAAAC/uma-musume-yudine.gif" width="100px" alt="Uma Musume 1"/></td>
+    <td><img src="https://media1.tenor.com/m/o0VUMSmkUJUAAAAC/uma-musume-tokai-teio.gif" width="100px" alt="Uma Musume 2"/></td>
+    <td><img src="https://media1.tenor.com/m/Bp4g-OBD_3QAAAAC/uma-musume-yudine.gif" width="100px" alt="Uma Musume 3"/></td>
+    <td><img src="https://media1.tenor.com/m/IEg2bTIr_rIAAAAC/%E3%82%A6%E3%83%9E%E5%A8%98-uma-musume.gif" width="100px" alt="Uma Musume 4"/></td>
+  </tr>
+</table>
 
 <br>
 

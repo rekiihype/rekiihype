@@ -17,19 +17,19 @@
 
 <!-- Activity Graph -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rekiihype&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rekiihype&theme=github-compact&hide_border=true&bg_color=FFFFFF&color=0969DA&line=0969DA&point=D73A4A&area=true&area_color=0969DA"/>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rekiihype&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF" alt="Activity"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rekiihype&theme=github-compact&hide_border=true&bg_color=0D1117&color=FFDEAD&line=FFDEAD&point=FF6B6B&area=true&area_color=FFDEAD"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rekiihype&theme=github-compact&hide_border=true&bg_color=FFFFFF&color=FFA500&line=FFA500&point=D73A4A&area=true&area_color=FFA500"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rekiihype&theme=github-compact&hide_border=true&bg_color=0D1117&color=FFDEAD&line=FFDEAD&point=FF6B6B&area=true&area_color=FFDEAD" alt="Activity"/>
 </picture>
 
 <!-- Stats Grid: Two Column Layout -->
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=rekiihype&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide_border=true"/>
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=rekiihype&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rekiihype&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=rekiihype&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=FFDEAD&icon_color=FFDEAD&text_color=FFDEAD&bg_color=0D1117&card_width=495"/>
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=rekiihype&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=FFA500&icon_color=FFA500&text_color=1F2328"/>
+        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rekiihype&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=FFDEAD&icon_color=FFDEAD&text_color=FFDEAD&bg_color=0D1117&card_width=495" alt="GitHub Stats"/>
       </picture>
     </td>
     <td width="50%">

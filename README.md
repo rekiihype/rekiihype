@@ -2,7 +2,7 @@
 
 <!-- Modern Hero Section -->
 <h1>
-  <img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Syamel+👋;Cybersecurity+Student+🚀;Love+trying+new+things+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app/api?font=Inide+Flower&weight=400&size=32&duration=3000&pause=1000&color=FFDEAD&center=true&vCenter=true&width=500&lines=hey+there!+I'm+Syamel+👋;also+known+as+rekii;cybersecurity+amateur;currently+challenging+myself;" alt="Typing SVG" />
 </h1>
 
 <!-- Compact Social Links -->
@@ -13,7 +13,7 @@
 </p>
 
 <!-- Anime Visual -->
-<img src="https://tenor.com/view/marin-kitagawa-kitagawa-marin-marin-kitagawa-bisque-gif-24604709.gif" width="280" alt="Marin"/>
+<img src="https://tenor.com/view/marin-kitagawa-kitagawa-marin-marin-kitagawa-bisque-gif-24604709.gif" width="100%" alt="Marin"/>
 
 <br>
 
@@ -25,7 +25,7 @@
     </td>
     <td width="50%">
       <a href="https://discord.com/users/686930042760331356">
-        <img width="100%" src="https://discord-readme-badge.vercel.app/api?id=686930042760331356" alt="Discord"/>
+      <img width="100%" src="https://lanyard.cnrad.dev/api/686930042760331356?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Just%20chillin'" alt="Discord"/>
       </a>
     </td>
   </tr>

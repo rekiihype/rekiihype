@@ -22,27 +22,14 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rekiihype&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF" alt="Activity"/>
 </picture>
 
-<!-- Stats Grid: Two Column Layout -->
-<table>
-  <tr>
-    <td width="50%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rekiihype&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117"/>
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rekiihype&show_icons=true&theme=transparent&hide_border=true&title_color=0969DA&icon_color=0969DA&text_color=1F2328&bg_color=FFFFFF"/>
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=rekiihype&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats"/>
-      </picture>
-    </td>
-    <td width="50%">
-      <a href="https://discord.com/users/686930042760331356">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://lanyard.cnrad.dev/api/686930042760331356?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Just%20chillin'"/>
-          <source media="(prefers-color-scheme: light)" srcset="https://lanyard.cnrad.dev/api/686930042760331356?theme=light&bg=ffffff&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Just%20chillin'"/>
-          <img width="100%" src="https://lanyard.cnrad.dev/api/686930042760331356?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Just%20chillin'" alt="Discord"/>
-        </picture>
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- Discord Profile -->
+<a href="https://discord.com/users/686930042760331356">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://lanyard.cnrad.dev/api/686930042760331356?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Just%20chillin'"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://lanyard.cnrad.dev/api/686930042760331356?theme=light&bg=ffffff&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Just%20chillin'"/>
+    <img width="60%" src="https://lanyard.cnrad.dev/api/686930042760331356?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Just%20chillin'" alt="Discord"/>
+  </picture>
+</a>
 
 <!-- Compact Social Links -->
 <p>

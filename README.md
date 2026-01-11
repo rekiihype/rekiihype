@@ -5,13 +5,6 @@
   <img src="https://readme-typing-svg.vercel.app/api?font=Inide+Flower&weight=400&size=32&duration=3000&pause=1000&color=FFDEAD&center=true&vCenter=true&width=500&lines=hey+there!+I'm+Syamel+👋;also+known+as+rekii;cybersecurity+amateur;currently+challenging+myself;" alt="Typing SVG" />
 </h1>
 
-<!-- Compact Social Links -->
-<p>
-  <a href="https://www.linkedin.com/in/syamelkarid"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://discord.com/users/686930042760331356"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <img src="https://komarev.com/ghpvc/?username=rekiihype&style=for-the-badge&color=58A6FF" alt="Views"/>
-</p>
-
 <!-- Anime Visual -->
 <img src="https://tenor.com/view/marin-kitagawa-kitagawa-marin-marin-kitagawa-bisque-gif-24604709.gif" width="100%" alt="Marin"/>
 
@@ -32,7 +25,14 @@
 </table>
 
 <!-- Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rekiihype&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF" alt="Activity"/>
+<img width="100s%" src="https://github-readme-activity-graph.vercel.app/graph?username=rekiihype&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF" alt="Activity"/>
+
+<!-- Compact Social Links -->
+<p>
+  <a href="https://www.linkedin.com/in/syamelkarid"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://discord.com/users/686930042760331356"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <img src="https://komarev.com/ghpvc/?username=rekiihype&style=for-the-badge&color=58A6FF" alt="Views"/>
+</p>
 
 <!-- Minimal End -->
 <img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>

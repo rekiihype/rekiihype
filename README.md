@@ -6,7 +6,7 @@
 </h1>
 
 <!-- Anime Visual -->
-<img src="https://tenor.com/view/marin-kitagawa-kitagawa-marin-marin-kitagawa-bisque-gif-24604709.gif" width="100%" alt="Marin"/>
+<img src="https://tenor.com/view/uma-musume-yudine-art-of-yudine-pixel-art-animated-gif-16207004241025370818.gif" width="100px" alt="Marin"/>
 
 <br>
 

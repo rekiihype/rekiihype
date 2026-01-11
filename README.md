@@ -25,7 +25,7 @@
 </table>
 
 <!-- Activity Graph -->
-<img width="100s%" src="https://github-readme-activity-graph.vercel.app/graph?username=rekiihype&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF" alt="Activity"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rekiihype&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF" alt="Activity"/>
 
 <!-- Compact Social Links -->
 <p>

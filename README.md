@@ -8,10 +8,10 @@
 <!-- Uma Musume Pixel Art Gallery -->
 <table>
   <tr>
-    <td><img src="https://media1.tenor.com/m/4OrYfSORCsIAAAAC/uma-musume-yudine.gif" width="100px" alt="Uma Musume 1"/></td>
-    <td><img src="https://media1.tenor.com/m/o0VUMSmkUJUAAAAC/uma-musume-tokai-teio.gif" width="100px" alt="Uma Musume 2"/></td>
-    <td><img src="https://media1.tenor.com/m/Bp4g-OBD_3QAAAAC/uma-musume-yudine.gif" width="100px" alt="Uma Musume 3"/></td>
-    <td><img src="https://media1.tenor.com/m/IEg2bTIr_rIAAAAC/%E3%82%A6%E3%83%9E%E5%A8%98-uma-musume.gif" width="100px" alt="Uma Musume 4"/></td>
+    <td align="center"><img src="assets/uma-musume-yudine.gif" width="80px" alt="Uma Musume 1"/></td>
+    <td align="center"><img src="assets/uma-musume-tokai-teio-yudine.gif" width="80px" alt="Uma Musume 2"/></td>
+    <td align="center"><img src="assets/uma-musume-mcqueen-yudine.gif" width="80px" alt="Uma Musume 3"/></td>
+    <td align="center"><img src="assets/uma-musume-kitasan-yudine.gif" width="80px" alt="Uma Musume 4"/></td>
   </tr>
 </table>
 

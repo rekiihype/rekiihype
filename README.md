@@ -28,15 +28,20 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,css,html,php,java,py,ts,mysql,git&theme=dark" alt="Tech Stack" />
 </div>
 
+<!-- GitHub Activity -->
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rekiihype&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=rekiihype&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=rekiihype&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </div>
 
+<!-- Activity Graph -->
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rekiihype&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Top Languages" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rekiihype&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" alt="Contribution Graph" />
+</div>
+
+<!-- Discord Profile -->
+<div align="center">
   <a href="https://discord.com/users/686930042760331356">
-    <img width="48%" src="https://discord-readme-badge.vercel.app/api?id=686930042760331356" alt="Discord Profile" />
+    <img width="70%" src="https://discord-readme-badge.vercel.app/api?id=686930042760331356" alt="Discord Profile" />
   </a>
 </div>
 

@@ -5,8 +5,10 @@
   <img src="https://readme-typing-svg.vercel.app/api?font=Inide+Flower&weight=400&size=32&duration=3000&pause=1000&color=FFDEAD&center=true&vCenter=true&width=500&lines=hey+there!+I'm+Syamel+👋;also+known+as+rekii;cybersecurity+amateur;currently+challenging+myself;" alt="Typing SVG" />
 </h1>
 
-<!-- Anime Visual -->
-<img src="https://tenor.com/view/uma-musume-yudine-art-of-yudine-pixel-art-animated-gif-16207004241025370818.gif" width="100px" alt="Marin"/>
+<!-- Anime Visual with Dark Background -->
+<div style="background-color: #0d1117; display: inline-block; padding: 10px; border-radius: 8px;">
+  <img src="https://tenor.com/view/uma-musume-yudine-art-of-yudine-pixel-art-animated-gif-16207004241025370818.gif" width="100px" alt="Uma Musume"/>
+</div>
 
 <br>
 

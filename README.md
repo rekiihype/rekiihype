@@ -51,7 +51,4 @@
   <img src="https://komarev.com/ghpvc/?username=rekiihype&style=for-the-badge&color=58A6FF" alt="Views"/>
 </p>
 
-<!-- Minimal End -->
-<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
-
 </div>

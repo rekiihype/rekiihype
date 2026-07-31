@@ -2,7 +2,7 @@
 
 <!-- Modern Hero Section -->
 <h1>
-  <img src="https://readme-typing-svg.vercel.app/api?font=Inide+Flower&weight=400&size=32&duration=3000&pause=1000&color=FFDEAD&center=true&vCenter=true&width=500&lines=hey+there!+I'm+rekii+👋;cybersecurity+amateur;currently+challenging+myself;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app/api?font=Inide+Flower&weight=400&size=32&duration=3000&pause=1000&color=FFDEAD&center=true&vCenter=true&width=500&lines=hey+there!+I'm+rekii;cybersecurity+amateur;challenging+myself;" alt="Typing SVG" />
 </h1>
 
 <!-- Uma Musume Pixel Art Gallery -->
